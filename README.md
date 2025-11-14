@@ -1,4 +1,4 @@
-#📦 Epic Games Free Games Scraper
+📦 Epic Games Free Games Scraper
 
 A small Python script that fetches currently free games from the Epic
 Games Store using their public promotions endpoint.
@@ -7,7 +7,7 @@ price is zero — meaning they are temporarily free.
 
 ------------------------------------------------------------------------
 
-#🚀 Features
+🚀 Features
 
 -   🔍 Fetches live data from the Epic Games Store
 -   🆓 Automatically detects all currently free titles
@@ -16,7 +16,7 @@ price is zero — meaning they are temporarily free.
 
 ------------------------------------------------------------------------
 
-#🧰 Requirements
+🧰 Requirements
 
 Make sure you have Python 3.8+ and install dependencies:
 
@@ -24,7 +24,7 @@ Make sure you have Python 3.8+ and install dependencies:
 
 ------------------------------------------------------------------------
 
-#🕹️ Usage
+🕹️ Usage
 
 Run the script with:
 
@@ -40,7 +40,7 @@ If no games are free, the script will notify you.
 
 ------------------------------------------------------------------------
 
-#🧪 API Used
+🧪 API Used
 
 The script calls:
 
@@ -57,14 +57,14 @@ Then it filters titles that are temporarily free.
 
 ------------------------------------------------------------------------
 
-#📜 License
+📜 License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
 
 ------------------------------------------------------------------------
 
-#🤝 Contributing
+🤝 Contributing
 
 Issues and pull requests are welcome!
 
